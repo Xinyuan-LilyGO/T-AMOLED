@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "*.tpp": "cpp",
+        "lv_demo_widgets.h": "c"
+    }
+}
